@@ -1,0 +1,90 @@
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\MemberMicroservice.exe
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\MemberMicroservice.deps.json
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\MemberMicroservice.runtimeconfig.json
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\MemberMicroservice.runtimeconfig.dev.json
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\MemberMicroservice.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\MemberMicroservice.pdb
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\obj\Debug\netcoreapp3.1\MemberMicroservice.csproj.AssemblyReference.cache
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\obj\Debug\netcoreapp3.1\MemberMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\obj\Debug\netcoreapp3.1\MemberMicroservice.AssemblyInfoInputs.cache
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\obj\Debug\netcoreapp3.1\MemberMicroservice.AssemblyInfo.cs
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\obj\Debug\netcoreapp3.1\MemberMicroservice.csproj.CoreCompileInputs.cache
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\obj\Debug\netcoreapp3.1\MemberMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\obj\Debug\netcoreapp3.1\MemberMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\MemberMicroservice.StaticWebAssets.Manifest.cache
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\obj\Debug\netcoreapp3.1\MemberMicroservice.RazorTargetAssemblyInfo.cache
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\obj\Debug\netcoreapp3.1\MemberMicroservice.csproj.CopyComplete
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\obj\Debug\netcoreapp3.1\MemberMicroservice.dll
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\obj\Debug\netcoreapp3.1\MemberMicroservice.pdb
+C:\Training\MFPE\Claims-Management-System\ClaimManagementSystem-2\MemberMicroservice\obj\Debug\netcoreapp3.1\MemberMicroservice.genruntimeconfig.cache
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\MemberMicroservice.exe
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\MemberMicroservice.deps.json
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\MemberMicroservice.runtimeconfig.json
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\MemberMicroservice.runtimeconfig.dev.json
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\MemberMicroservice.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\MemberMicroservice.pdb
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\obj\Debug\netcoreapp3.1\MemberMicroservice.csproj.AssemblyReference.cache
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\obj\Debug\netcoreapp3.1\MemberMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\obj\Debug\netcoreapp3.1\MemberMicroservice.AssemblyInfoInputs.cache
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\obj\Debug\netcoreapp3.1\MemberMicroservice.AssemblyInfo.cs
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\obj\Debug\netcoreapp3.1\MemberMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\obj\Debug\netcoreapp3.1\MemberMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\obj\Debug\netcoreapp3.1\MemberMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\MemberMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\MemberMicroservice.StaticWebAssets.xml
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\MemberMicroservice.styles.css
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\obj\Debug\netcoreapp3.1\MemberMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\obj\Debug\netcoreapp3.1\MemberMicroservice.csproj.CopyComplete
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\obj\Debug\netcoreapp3.1\MemberMicroservice.dll
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\obj\Debug\netcoreapp3.1\MemberMicroservice.pdb
+C:\Users\2085836\OneDrive - Cognizant\Desktop\Azure\ClaimManagementSystem-2\MemberMicroservice\obj\Debug\netcoreapp3.1\MemberMicroservice.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e8228d28-8671-4db8-a2f5-9ea7c482ccf0": {
+      "ProjectGuid": "e8228d28-8671-4db8-a2f5-9ea7c482ccf0",
+      "DisplayName": "MemberMicroservice",
+      "ColorIndex": 0
+    },
+    "5f2b4f54-0747-4c24-a330-1327e408c15a": {
+      "ProjectGuid": "5f2b4f54-0747-4c24-a330-1327e408c15a",
+      "DisplayName": "MemberServiceTesting",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
